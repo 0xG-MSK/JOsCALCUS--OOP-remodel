@@ -1,3 +1,4 @@
+#original source code at https://github.com/joseph-larbi/JOsCALCUS-, this is a forked and remodeled version.
 import sys
 class Calculator:
     def __init__(self):
